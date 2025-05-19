@@ -7,6 +7,8 @@ package SwitchCase_Daniel;
 import java.util.Scanner;
 
 public class SwitchCase_Daniel {
+
+    public static void main (String [] args) {
     Scanner Scanner = new Scanner(System.in);
     
     System.out.println("Ingrese un número del 1 al 7: ");
